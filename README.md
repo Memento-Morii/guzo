@@ -1,7 +1,6 @@
 # guzo
 
-A new Flutter project.
-
+This is a replica of Guzo app
 ## Getting Started
 
 This project is a starting point for a Flutter application.
